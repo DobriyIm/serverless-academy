@@ -1,0 +1,13 @@
+{
+	"name": "01_cli_interactive_sort",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"main": "node index.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
