@@ -16,7 +16,7 @@ const load = async () => {
 
 		return db;
 	} catch (err) {
-		if (err.errno != -4058) console.log(err);
+		console.log(err);
 	}
 };
 
