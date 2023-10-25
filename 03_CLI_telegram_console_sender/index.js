@@ -3,7 +3,6 @@ import TelegramBot from 'node-telegram-bot-api';
 import config from './config.js';
 
 const program = new Command();
-
 const bot = new TelegramBot(config.token);
 
 program
